@@ -56,11 +56,11 @@ plt.show()
 
 #-------------------------
 '''
-1.) Test error with no hidden layer:
+1.) Test error with no hidden layer: (hidden_layer_sizes=(1)
 Average Train Error: 0.2
 Average Test Error: 0.4 
 
-2.) Test error with one hidden layer and two neurons:
+2.) Test error with one hidden layer and two neurons: (hidden_layer_sizes=(1,1)
 Average Train Error: 0.4666666666666667
 Average Test Error: 0.4
 
